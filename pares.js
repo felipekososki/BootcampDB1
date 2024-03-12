@@ -5,10 +5,10 @@
 
 const array = [2, 4, 3, 1, 6, 7, 9, 10];
 
-function par(n) {
+function findPar(n) {
     return n % 2 === 0;
 }
 
-const pares = array.filter(par);
+const pares = array.filter(findPar);
 
-console.log("valores pares hahaha:", pares);
+console.log(`Exibir os números pares do array [2, 4, 3, 1, 6, 7, 9, 10]`, pares);
