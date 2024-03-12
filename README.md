@@ -7,6 +7,10 @@
     - `git config --global user.email "meuEmail@email.com"` *configurar email*
     - `git --help` *verificr comandos possíveis*
     - `git status`
+    - `code .` *abre o vscode*
+    - `git branch (nomeBranch)` criar uma branch
+    - `git checkout (nomeBranch)` ir para a branch criada
+    - `git checkout -b (nomeBranch)` cria uma branch e já vai direto pra branch criada
 
 - Primeiros comandos
 
