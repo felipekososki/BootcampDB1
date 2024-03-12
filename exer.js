@@ -3,7 +3,7 @@
 // - Gerar o commit
 // - Enviar para o GitHub
 
-const array = [2, 4, 3, 1, 6, 7, 9];
+const array = [2, 4, 3, 1, 6, 7, 9, 10];
 
 function par(n) {
     return n % 2 === 0;
