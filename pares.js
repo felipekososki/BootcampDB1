@@ -9,6 +9,6 @@ function findPar(n) {
     return n % 2 === 0;
 }
 
-const pares = array.filter(findPar);
+const numerosPares = array.filter(findPar);
 
-console.log(`Exibir os números pares do array [2, 4, 3, 1, 6, 7, 9, 10]`, pares);
+console.log(`Exibir os números pares do array [2, 4, 3, 1, 6, 7, 9, 10]`, numerosPares);
