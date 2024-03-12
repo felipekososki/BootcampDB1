@@ -11,4 +11,4 @@ function par(n) {
 
 const pares = array.filter(par);
 
-console.log("valores pares:", pares);
+console.log("valores pares hahaha:", pares);
