@@ -7,4 +7,4 @@ function impar(n) {
 
 const impares = array.filter(impar);
 
-console.log("valores impares:", impares);
+console.log("Números ímpares: ", impares);
